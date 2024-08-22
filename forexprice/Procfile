@@ -1,1 +1,1 @@
-web: gunicorn forexprice.wsgi
+web: gunicorn myproject.wsgi
